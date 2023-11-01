@@ -1,0 +1,27 @@
+* ::after{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    text-align
+}
+
+ul {list-style: none;}
+
+a {
+    text-decoration: none;
+  }
+
+:root {
+    font-size: 62.5%;
+    --blue: #037E8C;
+    --black: #121214;
+    --white: #FFFFFF;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 62.5%;
+}
+
+.BlueTextColor {
+    color: var(--blue);
+}
+
+
