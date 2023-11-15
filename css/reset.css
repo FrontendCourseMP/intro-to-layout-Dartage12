@@ -2,6 +2,8 @@
 *::after,
 *::before {
     box-sizing: border-box;
+    margin: 0;
+    padding: 0;
 }
 
 blockquote,
@@ -50,6 +52,7 @@ img {
 button {
     cursor: pointer;
     border: none;
+    background-color: transparent;
 }
 
 button,
