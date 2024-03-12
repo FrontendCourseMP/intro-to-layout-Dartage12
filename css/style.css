@@ -23,7 +23,7 @@ html{
 }
 :root {
     font-size: 16px;
-    --blue: #037E8C;
+    --blue: #006061;
     --black: #121214;
     --white: #FFFFFF;
     --whitedark: #F4F4F4;
@@ -50,9 +50,9 @@ h2{
   text-align: center;
 }
 p {
-  font-size: 0.875rem;
+  font-size: 1.5rem;
     color: var(--black);
-    font-weight: 400;
+    font-weight: 700;
 }
 .container{
   width: 100%;
@@ -843,8 +843,8 @@ nav ul a{
   text-align: left;
   padding: 0 10px;
   padding-bottom: 6px;
-  color: var(--gray);
-  font-size: 0.75rem;
+  color: var(--black);
+  font-size: 1rem;
 }
 
 
@@ -1226,7 +1226,7 @@ nav ul a{
   .price-card:nth-of-type(2) .price-photos li{
     justify-content: flex-end;
   }
-  .container__price{
+  .container__price{ footer
     width: 100%;
     max-width: 100%;
   }
@@ -1723,7 +1723,7 @@ nav ul a{
   }
   .footer p{
     text-align: center;
-    color: var(--gray);
+    color: var(--black);
   }
 }
 
